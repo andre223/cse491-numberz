@@ -1,4 +1,4 @@
-n = 0
+n = 0  # 1. n is set to 0.
 
 def add_one():
     global n
