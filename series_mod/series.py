@@ -9,9 +9,9 @@ def add_one():
 
 # additional questions to address:
 #  - what does 'global' do, above?
-	Uses the n thats defined locally and uses it as a global variable.
+#	Uses the n thats defined locally and uses it as a global variable.
 
 #  - what naming limitations are there on series.py? Could we name it
 #        series_mod.py or series-mod.py, and still have it work as a module?
 
-	As long as the correct
+#	As long as the correct
