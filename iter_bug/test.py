@@ -18,6 +18,7 @@ def test3():
     i.next()
     assert i.next() == 5
 
+# Tests
 test1()
 test2()
 test3()
